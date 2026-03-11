@@ -1,0 +1,5 @@
+
+{
+  "name": "React PDF Generator",
+  "description": "A web application to generate a PDF from text and images. Input a description, upload multiple images, and download the combined PDF document."
+}
